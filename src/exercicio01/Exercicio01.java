@@ -30,4 +30,8 @@ public class Exercicio01 {
         // TODO: implemente o código deste método
         return null;
     }
+
+    public int[] getSequenciaFibonacciDe(int tamanho){
+
+    }
 }

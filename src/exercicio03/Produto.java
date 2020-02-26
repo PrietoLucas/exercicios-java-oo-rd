@@ -1,4 +1,10 @@
 package exercicio03;
 
-// TODO: implemente o código-fonte de Produto.java
+public abstract class Produto{
+    public int codProd;
+    public String nomeProd;
+    public double valorVenda;
+    public double desconto;
 
+    public void
+}
